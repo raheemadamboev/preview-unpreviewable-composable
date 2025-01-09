@@ -19,6 +19,7 @@ java-target = "17"
 compose = { group = "androidx.compose", name = "compose-bom", version.ref = "compose" }
 compose-ui = { group = "androidx.compose.ui", name = "ui" }
 compose-graphics = { group = "androidx.compose.ui", name = "ui-graphics" }
+compose-tooling = { group = "androidx.compose.ui", name = "ui-tooling" }
 compose-preview = { group = "androidx.compose.ui", name = "ui-tooling-preview" }
 compose-material3 = { group = "androidx.compose.material3", name = "material3" }
 compose-activity = { group = "androidx.activity", name = "activity-compose", version.ref = "compose-activity" }

@@ -47,6 +47,7 @@ dependencies {
     implementation(platform(libs.compose))
     implementation(libs.compose.ui)
     implementation(libs.compose.graphics)
+    debugImplementation(libs.compose.tooling)
     implementation(libs.compose.preview)
     implementation(libs.compose.material3)
 
